@@ -13,3 +13,11 @@ Translation from Microsoft
 Перевод от Microsoft
 
 翻訳はマイクロソフトから提供されています
+
+删除任何文件和制作人没有关系
+
+Deleting any files has nothing to do with the producer.
+
+Удаление любых файлов не связано с производителем
+
+どのファイルも制作者とは関係なく削除してください
